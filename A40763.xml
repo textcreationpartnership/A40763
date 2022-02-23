@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Faithful account of a great engagement which happened on Good-Friday the 18th instant before the city of Dublin the late King James being himself in person at the head of his troops : with a relation of the taking his admiral routing his forces and other particulars.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40763</idno>
+            <idno type="STC">Wing F260A</idno>
+            <idno type="STC">ESTC R36411</idno>
+            <idno type="EEBO-CITATION">15689734</idno>
+            <idno type="OCLC">ocm 15689734</idno>
+            <idno type="VID">104384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Faithful account of a great engagement which happened on Good-Friday the 18th instant before the city of Dublin the late King James being himself in person at the head of his troops : with a relation of the taking his admiral routing his forces and other particulars.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed April 25, 1690. James Fraser. Entred according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:104384:1" rendition="simple:additions"/>
+            <head>A Faithful ACCOUNT OF A Great Engagement Which happened On Good-Friday the 18th Inſtant, BEFORE THE City of Dublin, <hi>The Late King Iames</hi> Being Himſelf in Perſon, at the Head of His Troops.</head>
+            <head type="sub">With a Relation of The Taking His Admiral, Routing His Forces, and other particulars.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed,</hi> April 25. 1690.</p>
+                  <closer>
+                     <signed>
+                        <hi>
+                           <hi>James Fraſer,</hi> Entred according to Order.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THE joyful News of Sir <hi>Clowdſley Shovel</hi>'s Succeſs at <hi>Dublin</hi>-Harbour, has much Elevated the de<g ref="char:EOLhyphen"/>preſt Spirits of our poor Friends here; and I doubt not but it will meet with the like joyful accep<g ref="char:EOLhyphen"/>tance where-ever it comes, which has much induced me to ſend you this Letter, which will give you an account of a notable Engagement.</p>
+            <p>THe before-mentioned Worthy Commander, with the Squa<g ref="char:EOLhyphen"/>dron of Ships mentioned in my laſt, Arrived ſafe on <hi>Good-Friday</hi> laſt, in the <hi>Bay</hi> of <hi>Dublin,</hi> where he ſpyed in the Harbour, the <hi>Iriſh</hi> Admiral (a <hi>Scoth</hi> Ship taken from Captain <hi>Hammilton,</hi> and now Commanded by one <hi>Patrick Bennet</hi>) with about Twenty other Veſſels of ſmaller Burthen, Laden with Hides, Tal<g ref="char:EOLhyphen"/>low,
+<pb n="2" facs="tcp:104384:2"/>and Butter, riding at Anchor in <hi>Polebeg,</hi> within the Bar. Where<g ref="char:EOLhyphen"/>upon the Captain quitted his own Ship (She being of too great a Bur<g ref="char:EOLhyphen"/>then to enter the Harbour,) and went on Board the <hi>Monmouth</hi>-Yatch, and with That, and Two more, he went over the Bar, Steering his Courſe directly towards the <hi>Iriſh</hi>-Admiral, who cut her Cables, and endeavoured to run up to <hi>Kingsend-Point</hi> (as the other Veſſels did, du<g ref="char:EOLhyphen"/>ring the Engagement,) but Sir <hi>Clowdſley Shovel</hi> being under Sail, approached ſo faſt, that he forced an Engagement; and the Fight laſted an hour, being cloſely fol<g ref="char:EOLhyphen"/>lowed on both ſides; after which, Captain <hi>Bennet</hi> ſeeing little hopes of Victory, and perceiving many of his Men to lye dead on the Decks, he run the Ship on ground, on the South <hi>Strand,</hi> and the Capt. and what Men he had left alive, made their Eſcape, and got on Shore, leaving his Ship a Prize to that Worthy Commander, our <hi>Engliſh</hi> Captain. The Firing ſo briskly in the Harbour, ſoon Al<g ref="char:EOLhyphen"/>larmed the City, whereupon King <hi>James,</hi> and his ſmall Army, being Two Regiments of Foot, and One of Horſe, came down on the <hi>Strand,</hi> by <hi>Andrew Cave</hi>'s Houſe (about half a Mile from <hi>Ringsend</hi>) dread<g ref="char:EOLhyphen"/>ing an Invaſion, and fearing the buſineſs would have gone farther than the loſs of his Ships. Sir <hi>Clowdſley</hi> Man'd out ſome long Boats, and by the help of the Tide, brought off the Veſſel: King <hi>James</hi> himſelf being a Spectator, and Eye<g ref="char:EOLhyphen"/>witneſs of this our Commanders Bravery, and his own great loſs: And I believe was glad it proceeded no farther. All the Oppoſition his gazing Soldiers gave, was, Two <hi>French</hi> Troops rid into the Water, and ſhot their Piſtols againſt the ſide of the Ship: In recompence whereof, a Shot was ſent from the Ship, which brought one of the Troopers into the Water, his Horſe being ſhot under him.</p>
+            <p>Two Boys ran from the Shore (being <hi>Proteſtants</hi>) up to their Necks in Water, deſiring help from the Sea-men, and were taken up by one of the long Boats.</p>
+            <p>In this Action we loſt not a Man, neither had we any but one Wound<g ref="char:EOLhyphen"/>ed, though there were found in the Enemies Veſſels Twenty Dead, beſides others, which in the Fight, undoubtedly dropt over-Board.</p>
+            <p>On <hi>Munday</hi> laſt came in here Forty Five Waggons, belonging to the Train of Artillery; and yeſter<g ref="char:EOLhyphen"/>day Morning they went down to <hi>Highlake.</hi>
+            </p>
+            <p>Yeſterday came in here Count <hi>Naſſaw</hi>'s Regiment of Foot: And to Morrow comes in another Regi<g ref="char:EOLhyphen"/>ment of Foot.</p>
+            <p>We hear from <hi>Lisburne,</hi> of the 14th Inſtant, That the Forces Shipt off at <hi>Briſtol,</hi> are ſafely Arrived there, conſiſting of Three Thou<g ref="char:EOLhyphen"/>ſand Men: And that Fifty Thou<g ref="char:EOLhyphen"/>ſand Pounds <hi>Sterling</hi> came thither that day: And that our Men are Hearty, and the Weather good; ſo that we ſuddenly expect to hear of further Action.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Hayhurſt</hi> in <hi>Little-Brittain,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
